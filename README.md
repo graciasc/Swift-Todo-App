@@ -1,4 +1,4 @@
 # Swift-Todo-App
 
-![GitHub Logo](/logo.png)
+![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
