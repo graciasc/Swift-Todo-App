@@ -1,5 +1,4 @@
 # Swift-Todo-App
 
 
-![GitHub Logo](Screen Shot 2020-11-04 at 3.32.07 PM.png)
-Format: ![Alt Text](url)
+https://drive.google.com/file/d/<FILE_ID>/view?usp=sharing
