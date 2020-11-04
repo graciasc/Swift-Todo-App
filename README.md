@@ -1,4 +1,3 @@
 # Swift-Todo-App
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](Screen Shot 2020-11-04 at 3.32.07 PM.png)
